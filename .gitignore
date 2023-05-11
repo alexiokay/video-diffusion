@@ -1,0 +1,9 @@
+images/
+.idea/
+ExpandingUniverse2_frames/
+test_frames/
+.env
+fantasy_landscape/
+test.mp4
+test2.mp4
+test*.mp4
